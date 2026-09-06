@@ -71,7 +71,7 @@ I'm a Computer Science student, drawn to the point where a system actually gets 
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-1">
+  <a href="https://github.com/alygo179-wq/StudentManagement">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-1&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-2">
