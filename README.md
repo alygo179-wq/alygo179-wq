@@ -1,26 +1,43 @@
-<h1 align="center">Hi 👋, I'm ABC</h1>
-<h3 align="center">Computer Science Student | Builder of things people actually use</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=150&section=header&text=Hey,%20I'm%20ABC%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+### Computer Science Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Curious+about+how+real+systems+are+built;Learning+by+building+small%2C+useful+things;Currently+exploring+AI%2FML+%26+Cybersecurity;Still+figuring+a+lot+out+%E2%80%94+and+enjoying+it." alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a Computer Science student who enjoys picking a small, real problem and actually seeing it through — like a hostel that keeps losing paperwork, or an office stuck emailing attendance sheets around. Nothing fancy, just things that could work a bit better if someone bothered to build them.
+
+- 🌐 Comfortable with **HTML, CSS, JavaScript, Python, MySQL** for web-based projects
+- ⚙️ Also work with **C++, Python, and x86 Assembly** when I want to understand what's happening closer to the machine
+- 🌱 Currently learning **AI/ML**, **Cybersecurity**, and **.NET** — mostly by building small things and breaking them
+- 🎯 Open to opportunities, internships, or collaborations where I can learn from people who know more than me
+- 🎸 Outside of code: music, hiking the valleys I grew up around, and volunteering when I can
+
+</td>
+<td width="40%" align="center">
+
+<img src="assests/check.gif" width="280"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+real-world+chaos+into+working+systems;Currently+leveling+up+in+AI%2FML+%26+Cybersecurity;Web+dev+by+day%2C+low-level+tinkerer+by+night;Always+shipping+something." alt="Typing SVG" />
-</p>
-
----
-
-### 🧭 About Me
-
-I'm a Computer Science student, drawn to the point where a system actually gets used by real people — a hostel that stops losing paperwork, an office that stops emailing attendance sheets around.
-
-- 🌐 I build with **HTML, CSS, JavaScript, Python, and MySQL** on the web side
-- ⚙️ ...and with **C++, Python, and x86 Assembly** when the problem sits closer to the machine
-- 🚀 Currently learning **AI/ML, Cybersecurity, and .NET** — actively building real skill and open to opportunities in these areas
-- 🎸 Outside of code: I play music, climb the valleys I grew up around, and volunteer where I can
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,9 +48,9 @@ I'm a Computer Science student, drawn to the point where a system actually gets 
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </p>
 
-**🌱 Currently exploring:**
+<p align="center"><b>🌱 Currently exploring</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -41,49 +58,104 @@ I'm a Computer Science student, drawn to the point where a system actually gets 
 
 ---
 
-### 📊 GitHub Stats
+## 🗺️ Learning Roadmap
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
-> ⚠️ Replace **YOUR-GITHUB-USERNAME** above with your actual GitHub username to activate these live stat cards.
+- [x] Web fundamentals — HTML, CSS, JavaScript
+- [x] Core programming — C, C++, Python
+- [x] Databases — MySQL
+- [ ] Cybersecurity fundamentals — in progress
+- [ ] AI/ML foundations — in progress
+- [ ] .NET — just getting started
+- [ ] First real open-source contribution
 
 ---
 
-### 🏆 Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alygo179-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alygo179-wq&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alygo179-wq&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alygo179-wq&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alygo179-wq&theme=tokyonight"/>
+</p>
+
+> ⚠️ Replace **YOUR-GITHUB-USERNAME** everywhere above with your actual GitHub username to activate these live cards.
 
 ---
 
-### 📌 Featured Projects
+## 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/alygo179-wq/StudentManagement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-1&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-2&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/alygo179-wq/alygo179-wq/output/github-contribution-grid-snake.svg"/>
 </p>
 
-> Swap in the names of your hostel/office paperwork projects here — pinned cards look great and tell your story fast.
+> Animated snake that "eats" your contribution graph. Set it up in ~2 minutes with the [platane/snk](https://github.com/Platane/snk) GitHub Action — instructions in the comment below.
+
+<!--
+  How to activate the snake:
+  1. Go to github.com/Platane/snk and follow "Deploy on your own github account"
+  2. It adds a GitHub Action that generates the SVG automatically on every push
+  3. Once it runs once, the image above will render your real contribution snake
+-->
 
 ---
 
-### 🤝 Connect With Me
+<details>
+<summary>🎲 A few random facts about me</summary>
+<br>
+
+- 🎸 I play music in my free time
+- 🏔️ I grew up around valleys and still go back to hike them
+- 🤝 I volunteer when time allows
+- 🧠 I'm more excited about *understanding* how something works than just getting it to run
+- ☕ Currently powered by curiosity (and probably too much caffeine)
+
+</details>
+
+---
+
+<!--
+  🏆 TROPHIES — commented out for now, uncomment once profile has more activity to show off
+
+  ## 🏆 Trophies
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  </p>
+
+  ---
+-->
+
+<!--
+  📌 FEATURED PROJECTS — commented out, come back and fill these in once repos are ready
+
+  ## 📌 Featured Projects
+
+  <p align="center">
+    <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-1&theme=tokyonight&hide_border=true"/>
+    </a>
+    <a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-2&theme=tokyonight&hide_border=true"/>
+    </a>
+  </p>
+
+  > Swap in the names of your hostel/office paperwork projects here — pinned cards look great and tell your story fast.
+
+  ---
+-->
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:youremail@example.com">
@@ -97,10 +169,12 @@ I'm a Computer Science student, drawn to the point where a system actually gets 
   </a>
 </p>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2E9EF7&style=for-the-badge"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=alygo179-wq&label=Profile%20Views&color=2E9EF7&style=for-the-badge"/>
 
-<p align="center"><i>"Build things that people actually need to open twice."</i></p>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer"/>
+
+</div>
